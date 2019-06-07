@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.homepage     = 'http://solidus.io'
   s.license      = %q{BSD-3}
 
-  s.add_dependency 'solidus_core', github: 'nyaahara/custom_solidus_core', branch: 'master'
+  s.add_dependency 'solidus_core', github: 'nyaahara/custom_solidus_core', branch: 'masteraaa'
   s.add_dependency 'solidus_api', version
   s.add_dependency 'solidus_backend', version
   s.add_dependency 'solidus_frontend', version
